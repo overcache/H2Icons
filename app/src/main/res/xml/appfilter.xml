@@ -879,6 +879,9 @@
     <item
         component="ComponentInfo{com.oneplus.bbs/com.oneplus.bbs.ui.activity.TutorialActivity}"
         drawable="oneplus" />
+    <item
+        component="ComponentInfo{com.oneplus.camera/com.oneplus.camera.OPCameraActivity}"
+        drawable="cmcamera" />
     <!--China Apps End-->
 
 
