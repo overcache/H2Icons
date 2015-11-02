@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/andrew/AndroidStudioProjects/H2Icons/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="/Users/andrew/AndroidStudioProjects/H2Icons/app/build/intermediates/pre-dexed/debug/classes-5851a880b494cceda75b834cb48c532277d27375.jar" />
+    </item>
+    <item
+        jar="/Users/andrew/AndroidStudioProjects/H2Icons/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="/Users/andrew/AndroidStudioProjects/H2Icons/app/build/intermediates/pre-dexed/debug/classes-d8f7ca5c7e66fd700c6085e1f0eeba2c08982021.jar" />
+    </item>
+    <item
+        jar="/Users/andrew/AndroidStudioProjects/H2Icons/app/libs/pkrequestmanager-0.9.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8b56cbff34a97f2d5d8095bfda7829c355f87a96">
+        <dex dex="/Users/andrew/AndroidStudioProjects/H2Icons/app/build/intermediates/pre-dexed/debug/pkrequestmanager-0.9-95ce5401e367f461019b5e91f1973f071a957e2e.jar" />
+    </item>
+    <item
+        jar="/Users/andrew/AndroidStudioProjects/H2Icons/app/build/intermediates/exploded-aar/com.android.support/palette-v7/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="167a5721524b1d2810d1b41ed76eff1d53a0e82b">
+        <dex dex="/Users/andrew/AndroidStudioProjects/H2Icons/app/build/intermediates/pre-dexed/debug/classes-b8b3bd99df9eef5b6775b248aba81f12a8753dd6.jar" />
+    </item>
+    <item
+        jar="/Users/andrew/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.0/support-annotations-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="/Users/andrew/AndroidStudioProjects/H2Icons/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.0-6e4da5de9bc9edaee1577a284f7e75fc0ac48a21.jar" />
+    </item>
+    <item
+        jar="/Users/andrew/.gradle/caches/modules-2/files-2.1/org.jbundle.util.osgi.wrapped/org.jbundle.util.osgi.wrapped.org.apache.http.client/4.1.2/98c86e42679fe7ac066f6c242e0d14f0bce0bb7c/org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98c86e42679fe7ac066f6c242e0d14f0bce0bb7c">
+        <dex dex="/Users/andrew/AndroidStudioProjects/H2Icons/app/build/intermediates/pre-dexed/debug/org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2-649633443d8711dae16771fb6823b402269276dc.jar" />
+    </item>
+    <item
+        jar="/Users/andrew/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/andrew/AndroidStudioProjects/H2Icons/app/build/intermediates/pre-dexed/debug/picasso-2.5.2-d86c61425df86d387d6f40daa4a18f83f0290246.jar" />
+    </item>
+    <item
+        jar="/Users/andrew/AndroidStudioProjects/H2Icons/app/build/intermediates/exploded-aar/com.github.clans/fab/1.6.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ca504182198db4a0f81779ca3fe391374c8cb66a">
+        <dex dex="/Users/andrew/AndroidStudioProjects/H2Icons/app/build/intermediates/pre-dexed/debug/classes-f30cd710940e82be0a7fccba88a269f9c210441d.jar" />
+    </item>
+    <item
+        jar="/Users/andrew/AndroidStudioProjects/H2Icons/app/build/intermediates/exploded-aar/com.afollestad/material-dialogs/0.7.9.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="278810b7c706bc3786d4dcb3f93f9afbb49e7c9a">
+        <dex dex="/Users/andrew/AndroidStudioProjects/H2Icons/app/build/intermediates/pre-dexed/debug/classes-ed3399454574a4c0bf04d46e35f57c1c6f93b101.jar" />
+    </item>
+    <item
+        jar="/Users/andrew/AndroidStudioProjects/H2Icons/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/libs/internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="/Users/andrew/AndroidStudioProjects/H2Icons/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.0-0fe843a1963c7b556f04ca46d30222d2d09d4597.jar" />
+    </item>
+    <item
+        jar="/Users/andrew/AndroidStudioProjects/H2Icons/app/build/intermediates/exploded-aar/com.android.support/design/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="19026d31f5d3ae868db81319671a642be5fbba08">
+        <dex dex="/Users/andrew/AndroidStudioProjects/H2Icons/app/build/intermediates/pre-dexed/debug/classes-a54e90f9b227ba20febe1c5b1856ca4547391c6b.jar" />
+    </item>
+    <item
+        jar="/Users/andrew/AndroidStudioProjects/H2Icons/app/build/intermediates/exploded-aar/de.psdev.licensesdialog/licensesdialog/1.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="063e8091cd19fe30677bce05fa3bc970212f3a9a">
+        <dex dex="/Users/andrew/AndroidStudioProjects/H2Icons/app/build/intermediates/pre-dexed/debug/classes-bc155076e4f18dba664b749b29dea7eb76db8bdf.jar" />
+    </item>
+    <item
+        jar="/Users/andrew/AndroidStudioProjects/H2Icons/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d96886efea7cc74fbb3abd0e3b51d5638fc57be0">
+        <dex dex="/Users/andrew/AndroidStudioProjects/H2Icons/app/build/intermediates/pre-dexed/debug/classes-2d6012f45e46f95af5f049696b0052791820ed54.jar" />
+    </item>
+    <item
+        jar="/Users/andrew/AndroidStudioProjects/H2Icons/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3f151e49c316a5ab2c065969a3b3b55ef9b393fc">
+        <dex dex="/Users/andrew/AndroidStudioProjects/H2Icons/app/build/intermediates/pre-dexed/debug/classes-2fb112e08f85fdfd456329dc159aa1cd9ee702bc.jar" />
+    </item>
+    <item
+        jar="/Users/andrew/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/andrew/AndroidStudioProjects/H2Icons/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0-2d4ca60199cde780986ac6715390ce344aac2de4.jar" />
+    </item>
+
+</items>
